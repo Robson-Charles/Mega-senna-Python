@@ -1,0 +1,1 @@
+Só baixar as blibliotecas que foram importadas no começo do codigo e é GG
